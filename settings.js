@@ -4,6 +4,5 @@ module.exports = {
   PREFIX: "." // Default Prefix You Can Change To .,*!?+-&%#@
 
 };
-};
 
 // CREATED BY DARRELL MUCHERI ( MR FRANK OFC 🇿🇼 )
